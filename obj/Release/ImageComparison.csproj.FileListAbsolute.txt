@@ -1,0 +1,15 @@
+D:\GitHub\ImageComparison\bin\Release\ImageComparison.exe.config
+D:\GitHub\ImageComparison\bin\Release\ImageComparison.exe
+D:\GitHub\ImageComparison\bin\Release\ImageComparison.pdb
+D:\GitHub\ImageComparison\bin\Release\AForge.dll
+D:\GitHub\ImageComparison\bin\Release\AForge.Imaging.dll
+D:\GitHub\ImageComparison\bin\Release\AForge.Math.dll
+D:\GitHub\ImageComparison\bin\Release\AForge.xml
+D:\GitHub\ImageComparison\bin\Release\AForge.Imaging.xml
+D:\GitHub\ImageComparison\bin\Release\AForge.Math.xml
+D:\GitHub\ImageComparison\obj\Release\ImageComparison.csprojResolveAssemblyReference.cache
+D:\GitHub\ImageComparison\obj\Release\FileComparerWinForms.Form1.resources
+D:\GitHub\ImageComparison\obj\Release\ImageComparison.Properties.Resources.resources
+D:\GitHub\ImageComparison\obj\Release\ImageComparison.csproj.GenerateResource.Cache
+D:\GitHub\ImageComparison\obj\Release\ImageComparison.exe
+D:\GitHub\ImageComparison\obj\Release\ImageComparison.pdb
