@@ -1,2 +1,2 @@
-# image-comparison
+Image-comparison
 Compares images
